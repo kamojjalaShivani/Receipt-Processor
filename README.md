@@ -19,7 +19,8 @@ The API is containerized using Docker, making it easy to run and deploy.
 git clone https://github.com/kamojjalaShivani/Receipt-Processor.git
 cd Receipt-Processor
 
-### **2. Install all dependencies**
+###
+ **2. Install all dependencies**
 
 npm install
 To start the API server without Docker:
